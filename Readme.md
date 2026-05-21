@@ -182,7 +182,7 @@ catalogo-animes
 
 ---
 
-## 👨‍💻 Autor
+# Autor
 
 Projeto desenvolvido para atividade prática de consumo de API utilizando React Native e Expo.
 
