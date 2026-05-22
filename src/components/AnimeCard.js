@@ -60,7 +60,7 @@ const styles = StyleSheet.create({
   // Inclui sombras tanto para iOS (shadow*) quanto para Android (elevation) para dar profundidade de design "premium"
   card: {
     flexDirection: "row",
-    backgroundColor: "white",
+    backgroundColor: "#4c943d",
     margin: 10,
     padding: 12,
     borderRadius: 12,
@@ -92,13 +92,13 @@ const styles = StyleSheet.create({
   // Informações menores (nota, episódios, ano) com cor mais suave
   detalhe: {
     fontSize: 13,
-    color: "#555",
+    color: "#3b1212",
   },
   // Texto descritivo em cinza claro e tamanho menor para a sinopse
   sinopse: {
     marginTop: 6,
     fontSize: 12,
-    color: "#777",
+    color: "#241a1a",
   },
   // Alinha o ícone do coração na extremidade inferior direita do cartão
   botaoFavorito: {
